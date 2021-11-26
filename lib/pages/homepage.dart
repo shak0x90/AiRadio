@@ -34,6 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
             backgroundColor: Colors.transparent,
             elevation: 0.0,
+            centerTitle: true,
           ).h(100).p16()
         ],
       ),
