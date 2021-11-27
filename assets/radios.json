@@ -1,0 +1,89 @@
+{
+    "radios":[
+        {
+            "id":1,
+            "name":"92.8",
+            "tagline":"Radio Bhumi",
+            "color":"0xffa11431",
+            "desc":"RadioBhumi FM 92.8 is tagged by 'Biswashey Bangladesh', Strongly determined to stick into the root of Bangla Music, Culture & Emotional event like sports",
+            "url":"https://onlineradiobox.com/bd/bhumi/?cs=bd.bhumi&played=1",
+            "icon":"https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",
+            "image":"https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",
+            "lang":"Bangla",
+            "category":"pop",
+            "disliked":false,
+            "order":1
+
+        },
+        {
+            "id":2,
+            "name":88.0,
+            "tagline":"Radio Foorti",
+            "color":"0xffa11431",
+            "desc":"Radio Foorti - the Biggest & Hippest Radio Station in Bangladesh",
+            "url":"http://onlineradiobox.com/bd/foorti/player/?cs=bd.foorti&played=1",
+            "icon":"https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",
+            "image":"https://cdn.onlineradiobox.com/img/l/2/29432.v11.png",
+            "lang":"Bangla",
+            "category":"pop",
+            "disliked":false,
+            "order":2
+        },
+        {
+            "id":3,
+            "name":"89.6",
+            "tagline":"Radio Today",
+            "color":"0xffa11431",
+            "desc":"Radio Today 89.6 is a broadcast Radio station from Dhaka, Bangladesh, providing News, Information, Sports and Talk programs.",
+            "url":"https://onlineradiobox.com/bd/today/?cs=bd.today&played=1",
+            "icon":"https://cdn.onlineradiobox.com/img/l/9/29209.v9.png",
+            "image":"https://cdn.onlineradiobox.com/img/l/9/29209.v9.png",
+            "lang":"bangla",
+            "category":"rock",
+            "disliked":false,
+            "order":3
+        },
+        {
+            "id":4,
+            "name":"89.2",
+            "tagline":"ABC Radio",
+            "color":"0xffa11431",
+            "desc":"ABC Radio FM 89.2 is a broadcast radio station from Dhaka, Bangladesh, providing News, Sports and Weather Information, and Live Shows with local music.",
+            "url":"https://onlineradiobox.com/bd/abc/?cs=bd.abc&played=1",
+            "icon":"https://cdn.onlineradiobox.com/img/l/8/29208.v17.png",
+            "image":"https://cdn.onlineradiobox.com/img/l/8/29208.v17.png",
+            "lang":"bangla",
+            "category":"rock",
+            "disliked":false,
+            "order":4
+        },
+        {
+            "id":5,
+            "name":"90.0",
+            "tagline":"Dhaka FM",
+            "color":"0xffa11431",
+            "desc":"Dhaka FM 90.4 is a broadcast radio station from Dhaka, Bangladesh, providing entertainment and information by promoting local culture, music and happenings",
+            "url":"http://onlineradiobox.com/bd/dhaka/player/?cs=bd.dhaka&played=1",
+            "icon":"https://cdn.onlineradiobox.com/img/l/0/29210.v6.png",
+            "image":"https://cdn.onlineradiobox.com/img/l/0/29210.v6.png",
+            "lang":"bangla",
+            "category":"pop",
+            "disliked":false,
+            "order":5
+        },
+        {
+            "id":6,
+            "name":"96.4",
+            "tagline":"Spice FM",
+            "color":"0xffa11431",
+            "desc":"SPICE FM is the official Radio Station in Dhaka of Radio Masala Limited.This is now the most dynamic Radio Station from the heart of Dhaka city.",
+            "url":"http://onlineradiobox.com/bd/spice964/player/?cs=bd.spice964&played=1",
+            "icon":"https://cdn.onlineradiobox.com/img/l/8/73208.v7.png",
+            "image":"https://cdn.onlineradiobox.com/img/l/8/73208.v7.png",
+            "lang":"bangla",
+            "category":"rock",
+            "disliked":false,
+            "order":6
+        }
+    ]
+}
