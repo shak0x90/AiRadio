@@ -1,5 +1,7 @@
+import 'package:ai_radio/model/radio.dart';
 import 'package:ai_radio/utlis/colors.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -10,6 +12,23 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  List<MyRadio>? radios;
+  @override
+  void initState() {
+    super.initState();
+    fetchRadios();
+  }
+
+  fetchRadios() async {
+    print("a");
+    final radioJason = await rootBundle.loadString("assets/radios.json");
+    print("fuckjson");
+    radios = MyRadiolist.fromJson(radioJason).radios;
+    print("fuckjson2");
+    print(radios);
+    print("fuckjson3");
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
