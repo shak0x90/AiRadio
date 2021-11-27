@@ -21,7 +21,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
   fetchRadios() async {
     print("a");
-    final radioJason = await rootBundle.loadString("assets/radios.json");
+    final radioJason = await rootBundle
+        .loadString("assets/radios.json"); //wtffffffffffffffffffff
     print("fuckjson");
     radios = MyRadiolist.fromJson(radioJason).radios;
     print("fuckjson2");
